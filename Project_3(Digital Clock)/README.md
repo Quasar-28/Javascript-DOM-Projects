@@ -1,0 +1,1 @@
+# This shows the current time in digital mode in AM/PM format.
