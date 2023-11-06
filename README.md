@@ -1,3 +1,6 @@
 # Javascript-DOM-_Projects
-# First DOM project.
-# This changes the background color of the webpage on clicking the available color.
+# Four DOM projects.
+# first one is background color changer.
+# Second one is bmi calculator.
+# Third one is digital clock.
+# Fourth one is guess the number.
