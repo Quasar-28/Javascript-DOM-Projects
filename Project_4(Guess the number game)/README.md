@@ -1,0 +1,1 @@
+# In this we have to guess a number between 1 and 100 within 10 chances.
